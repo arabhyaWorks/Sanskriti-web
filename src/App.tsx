@@ -8,6 +8,7 @@ import VideoSlideshow from './components/VideoSlideshow';
 import CulturalSections from './components/CulturalSections';
 import Events from './components/Events';
 import ArtistRegistration from './components/ArtistRegistration';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
         <CulturalSections />
         <Events />
         <ArtistRegistration />
+        <Footer />
       </div>
     </>
   );
