@@ -37,7 +37,7 @@ function App() {
             aria-hidden="true"
           />
         </div>
-        <CulturalSections />
+        {/* <CulturalSections /> */}
         <Events />
         <ArtistRegistration />
         <Footer />
